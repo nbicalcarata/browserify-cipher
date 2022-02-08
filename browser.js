@@ -1,4 +1,4 @@
-var RC4 = require('browserify-rc4')
+var RC4 = require('./browserify-rc4')
 var DES = require('browserify-des')
 var aes = require('browserify-aes/browser')
 var aesModes = require('browserify-aes/modes')
